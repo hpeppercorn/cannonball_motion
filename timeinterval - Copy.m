@@ -1,0 +1,1 @@
+time_interval = [(height/100)-10, (height/100)] - intercept_time
